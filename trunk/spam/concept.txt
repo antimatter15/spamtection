@@ -1,0 +1,23 @@
+Ideas for anyone willing to finish this vaporware (nah, i'll probably work on it some days)
+
+Spamminess score based system
+Compare comment with readability (Using Gunning-Fog/Flesch-Kinicad) of surrounding (parent?) approved comments and main post
+Look for grammatical correctness, not just random keywords
+Discredit comments that blatantly use incorrect syntax (<a HTML links when BBCode only)
+Browser User-Agents (Very insignifigantly discredit browsers unknown and old versions of IE)
+Language (Discredit for things in different language, some languages more?)
+Discredit certian links by identifier. Forums/Blogs/esp. Profiles are much more likely to be hacked/used for spamming
+Discredit subdomains (spammier than normal domains)
+Discredit known "free hosts"
+Discredit certian TLDs (.info/free)
+Discred it username resembles URL
+discredit lists (words < 9 characters, seperated by spaces or hyphens, not commas)
+Check Vowel ratio for post/username/email
+Check protocals, make sure they're HTTP/HTTPS
+Check number of links (self-explanatory)
+Precedents from author (Good/Bad)
+URL Length (large = bad)
+Keyword (usual)
+Body length, < 20 characters = bad, >20 = good, certain bayesian-discovered length = bad
+Base strictness of spam filtering on current spam input
+Count words repeated from the original post

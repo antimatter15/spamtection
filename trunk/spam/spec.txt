@@ -1,0 +1,5 @@
+Spam Filter Specs.
+
+Filters:
+
+Link Parser (done)
